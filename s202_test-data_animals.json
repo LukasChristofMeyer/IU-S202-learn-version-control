@@ -28,5 +28,11 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+  {
+    "commonName": "Asian Black Bear",
+    "scientificName": "Ursus thibetanus",
+    "habitat": "Moist forests, shrublands, and mountains",
+    "description": "A medium-sized bear adapted for an arboreal lifestyle."
   }
 ]
