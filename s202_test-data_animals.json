@@ -34,5 +34,11 @@
     "scientificName": "Ursus thibetanus",
     "habitat": "Moist forests, shrublands, and mountains",
     "description": "A medium-sized bear adapted for an arboreal lifestyle."
+  },
+  {
+    "commonName": "Giant Panda",
+    "scientificName": "Ailuropoda melanoleuca",
+    "habitat": "Chinese montane ecosystems with healthy concentrations of bamboo",
+    "description": "A bear distinct for its diet consisting of primarily bamboo, and pattern of black and white fur."
   }
 ]
